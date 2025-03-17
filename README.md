@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head>
-    <title>LETTER</title>
+    <title>PETA</title>
 </head>
     <body>
         <p><b>Rhianna Ashley S. Reyes</b><br>8-Pillar</br>
